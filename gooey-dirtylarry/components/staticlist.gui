@@ -1,7 +1,7 @@
 script: ""
 textures {
   name: "dirtylarry"
-  texture: "/gooeydirtylarry/images/dirtylarry.atlas"
+  texture: "/gooey-dirtylarry/images/dirtylarry.atlas"
 }
 background_color {
   x: 0.0

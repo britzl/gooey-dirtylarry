@@ -1,11 +1,11 @@
 script: ""
 fonts {
   name: "dirtylarry"
-  font: "/gooeydirtylarry/fonts/dirtylarry.font"
+  font: "/gooey-dirtylarry/fonts/dirtylarry.font"
 }
 textures {
   name: "dirtylarry"
-  texture: "/gooeydirtylarry/images/dirtylarry.atlas"
+  texture: "/gooey-dirtylarry/images/dirtylarry.atlas"
 }
 background_color {
   x: 0.0

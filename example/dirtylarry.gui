@@ -1,11 +1,11 @@
 script: "/example/dirtylarry.gui_script"
 fonts {
   name: "dirtylarry"
-  font: "/gooeydirtylarry/fonts/dirtylarry.font"
+  font: "/gooey-dirtylarry/fonts/dirtylarry.font"
 }
 textures {
   name: "dirtylarry"
-  texture: "/gooeydirtylarry/images/dirtylarry.atlas"
+  texture: "/gooey-dirtylarry/images/dirtylarry.atlas"
 }
 background_color {
   x: 0.0
@@ -49,7 +49,7 @@ nodes {
   layer: ""
   inherit_alpha: true
   alpha: 1.0
-  template: "/gooeydirtylarry/components/dynamiclist.gui"
+  template: "/gooey-dirtylarry/components/dynamiclist.gui"
   template_node_child: false
 }
 nodes {
@@ -371,7 +371,7 @@ nodes {
   layer: ""
   inherit_alpha: true
   alpha: 1.0
-  template: "/gooeydirtylarry/components/button.gui"
+  template: "/gooey-dirtylarry/components/button.gui"
   template_node_child: false
 }
 nodes {
@@ -530,7 +530,7 @@ nodes {
   layer: ""
   inherit_alpha: true
   alpha: 1.0
-  template: "/gooeydirtylarry/components/checkbox.gui"
+  template: "/gooey-dirtylarry/components/checkbox.gui"
   template_node_child: false
 }
 nodes {
@@ -689,7 +689,7 @@ nodes {
   layer: ""
   inherit_alpha: true
   alpha: 1.0
-  template: "/gooeydirtylarry/components/radio.gui"
+  template: "/gooey-dirtylarry/components/radio.gui"
   template_node_child: false
 }
 nodes {
@@ -848,7 +848,7 @@ nodes {
   layer: ""
   inherit_alpha: true
   alpha: 1.0
-  template: "/gooeydirtylarry/components/radio.gui"
+  template: "/gooey-dirtylarry/components/radio.gui"
   template_node_child: false
 }
 nodes {
@@ -1007,7 +1007,7 @@ nodes {
   layer: ""
   inherit_alpha: true
   alpha: 1.0
-  template: "/gooeydirtylarry/components/radio.gui"
+  template: "/gooey-dirtylarry/components/radio.gui"
   template_node_child: false
 }
 nodes {
@@ -1166,7 +1166,7 @@ nodes {
   layer: ""
   inherit_alpha: true
   alpha: 1.0
-  template: "/gooeydirtylarry/components/input.gui"
+  template: "/gooey-dirtylarry/components/input.gui"
   template_node_child: false
 }
 nodes {
@@ -1379,7 +1379,7 @@ nodes {
   layer: ""
   inherit_alpha: true
   alpha: 1.0
-  template: "/gooeydirtylarry/components/input.gui"
+  template: "/gooey-dirtylarry/components/input.gui"
   template_node_child: false
 }
 nodes {
