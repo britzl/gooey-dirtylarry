@@ -12,7 +12,7 @@ Dirty Larry is a theme for Gooey.
 You can use Gooey and the Dirty Larry theme in your own project by adding this project as a [Defold library dependency](http://www.defold.com/manuals/libraries/). Open your game.project file and in the dependencies field under project add:
 
 https://github.com/britzl/gooey/archive/master.zip
-https://github.com/britzl/gooey-dirtylarry/archive/master.zip
+https://github.com/britzl/gooey-dirtylarry/archive/main.zip
 
 Or point to the ZIP file of a [specific release](https://github.com/britzl/gooey/releases).
 
